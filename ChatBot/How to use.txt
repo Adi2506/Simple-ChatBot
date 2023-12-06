@@ -1,0 +1,19 @@
+Requirements: 
+PC with python installed in it 
+internet connection 
+
+To check python is installed or not run "python =v"if not download it
+
+run app.py file using any python IDE or by using terminal.
+To run it in terminal firstly change the directory where file exist by usind cd command 
+->cd path
+Then type python fileName.py in terminal to run the python code
+
+after running it flask server will run and i output you will get link or url to access website
+
+In website type you questions or conversaton in text area located on bottom and press send button to get response from chatbot write exit to end conversation
+
+
+
+
+ 

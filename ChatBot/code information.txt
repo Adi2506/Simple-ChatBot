@@ -1,0 +1,9 @@
+It is built on pre trained language model GPT-3 .It is same model used in chat GPT previously
+to use it you need to get private api key from open ai website (in given code api  key is my private generated replace it with yours if do not work)to generate API key need to have open AI account then there is option to generate api key and documentation for using it
+
+in python if flaskAPI and openai library is used of it is not present in your system download it by using following commands:
+->pip install flask
+->pip install openai
+
+Flask API is used to make server to integrate with HTML,CSS and JavaScript web page.
+ 
